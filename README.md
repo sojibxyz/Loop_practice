@@ -1,2 +1,1 @@
-This code make for help beginners, 
-If you pro user please don't calll
+This system make for help beginners, just simply show here how to generate student managment system in pyhton code. 
